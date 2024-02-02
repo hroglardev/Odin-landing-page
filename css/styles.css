@@ -116,3 +116,64 @@ button {
   height: 170px;
   border-radius: 10px;
 }
+
+.quote {
+  background-color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 100px 300px;
+}
+
+.quote div {
+  width: 100%;
+}
+
+.quote-div.quotation {
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.quote-div.author {
+  text-align: right;
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: 50px;
+}
+
+.suscribe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+}
+
+.suscribe-background {
+  background-color: #3882f6;
+  color: #e5e7eb;
+  border-radius: 8px;
+  width: 100%;
+  display: flex;
+  padding: 50px 120px;
+  justify-content: space-between;
+}
+
+.suscribe-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+
+.suscribe-button button {
+  border: 3px solid #e5e7eb;
+  border-radius: 8px;
+}
+
+.footer {
+  color: #e5e7eb;
+  text-align: center;
+  padding: 32px 0;
+}
