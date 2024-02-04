@@ -31,3 +31,14 @@ New CSS learned
 # Want to see it in action?
 
 <a href="https://hroglardev.github.io/Odin-landing-page/">Click here</a>
+
+# Want to track my progress?
+
+Checkout my other projects in order to see my evolution:
+
+<ol>
+  <li><a href="https://github.com/hroglardev/odin-recipes" target="_blank">Recipes</a></li>
+  <li><a href="https://github.com/hroglardev/Odin-landing-page" target="_blank">You are here</a></li>
+  <li><a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP-Console" target="_blank">Console Rock, Paper, Scissors</a></li>
+  <li><a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP" target="_blank">Rock, Paper, Scissors</a></li>
+</ol>
